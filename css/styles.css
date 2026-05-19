@@ -8,3 +8,11 @@
     margin: 10% auto;
     padding: 70px;
 }
+.pratos img {
+    width: 200px;
+    height: 190px;
+    border-radius: 8px;
+}
+.pratos img:hover{
+    transform: scale(1.2);
+}
